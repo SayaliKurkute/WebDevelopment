@@ -1,2 +1,3 @@
 # WebDevelopment
-Sorce code related to React.js
+Source code related to React.js. 
+This is the first commit.
